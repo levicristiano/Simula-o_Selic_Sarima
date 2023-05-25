@@ -7,5 +7,5 @@ Below are some examples of the study outputs and projections.
 
 
  ![selic_percentual](https://github.com/levicristiano/Simula-o_Selic_Sarima/assets/71664605/e7fa0d77-f70a-45de-b0bb-2c32f35c31da)
-"1440" alt= ![plot_zoom_png](https://github.com/levicristiano/Simula-o_Selic_Sarima/assets/71664605/1cbe771b-8a05-4ab1-b501-4f9c6d43afb7)
+![plot_zoom_png](https://github.com/levicristiano/Simula-o_Selic_Sarima/assets/71664605/1cbe771b-8a05-4ab1-b501-4f9c6d43afb7)
      
